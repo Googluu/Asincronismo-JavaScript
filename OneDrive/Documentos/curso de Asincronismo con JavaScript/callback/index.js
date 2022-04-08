@@ -22,8 +22,14 @@ function printDate(dateNow) {
 
 date(printDate);
 
+function div(div1, div2) {
+    return div1 / div2;
+}
 
-
+function calc(div1, div2, callback) {
+    return callback(div1, div2);
+}
+console.log(calc(40, 10, div));
 
 
 
