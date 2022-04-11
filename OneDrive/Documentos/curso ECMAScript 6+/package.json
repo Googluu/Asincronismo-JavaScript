@@ -1,0 +1,11 @@
+{
+  "name": "ecmasript",
+  "version": "1.0.0",
+  "description": "EcmaScript-6/EcmaScript-12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sneyder J. Huertas Rodríguez <sneyder.h.rodriguez@gmail.com>",
+  "license": "MIT"
+}
