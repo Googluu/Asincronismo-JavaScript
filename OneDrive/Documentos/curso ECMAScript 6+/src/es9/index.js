@@ -48,3 +48,13 @@ const month = match[2]
 const day = match[3]
 
 console.log(year, month, day);
+
+function perimetro(lado) {
+    return lado * 4
+}
+perimetro(5);
+
+function perimetroCuadrado(lado) {
+    return lado * 4;
+}
+perimetroCuadrado(5);
