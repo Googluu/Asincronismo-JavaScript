@@ -58,3 +58,7 @@ function perimetroCuadrado(lado) {
     return lado * 4;
 }
 perimetroCuadrado(5);
+function perimetroCuadrado(lado) {
+    return lado * 4;
+}
+perimetroCuadrado(5);
